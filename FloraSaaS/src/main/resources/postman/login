@@ -1,0 +1,9 @@
+URL: http://localhost:8080/florasaas/api/auth/login
+Method: POST
+Headers:
+    Content-Type: application/json
+JSON:
+{
+    "email":"admin@flora.com",
+    "senha":"admin_flora"
+}

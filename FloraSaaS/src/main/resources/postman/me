@@ -1,0 +1,8 @@
+URL: http://localhost:8080/florasaas/api/auth/me
+Method: GET
+Headers:
+  Content-Type: application/json
+  Authorization: Bearer {{token}}
+Body: Nenhum
+
+OBS: o token deve ser obtido através do endpoint de login.
